@@ -1,0 +1,16 @@
+.post-item {
+  background: #fff;
+  border: 1px solid #eef2f4;
+  a {
+    color: $main-color;
+  }
+
+  h4 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 30px;
+  }
+}
+.post-details {
+  padding: 24px;
+}

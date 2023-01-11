@@ -1,0 +1,39 @@
+.btn-main {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 50px;
+  height: 50px;
+  padding: 0 40px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+  color: $white;
+  border: 1px solid $blue;
+  background: $blue;
+  &:hover {
+    color: $main-color;
+    border-color: $green;
+    outline: none;
+    background:  $green;
+  }
+  &:active {
+    outline: none;
+    background: #00E590;
+  }
+}
+.btn-contact {
+  background: $green;
+  color: $black;
+  border-color: $green;
+  &:hover {
+    color: $white;
+    border-color: $main-color;
+    outline: none;
+    background:  $main-color;
+  }
+  &:active {
+    outline: none;
+    background: #00E590;
+  }
+}

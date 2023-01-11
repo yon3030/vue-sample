@@ -1,0 +1,49 @@
+.section-title {
+  max-width: 600px;
+  margin-bottom: 60px;
+  color: $main-color;
+  h3 {
+    font-size: 32px;
+  }
+}
+.service-item {
+  a {
+    font-size: 16px;
+    color: $blue;
+    font-weight: 500;
+    i {
+      margin-left: 15px;
+    }
+  }
+}
+.procces-number {
+  font-size: 120px;
+  font-weight: bold;
+  color: $main-theLightest;
+  position: relative;
+}
+.divider {
+  img {
+    width: 100%;
+    padding: 80px 0;
+  }
+}
+.procces-box {
+  h4{
+    font-size: 24px;
+  }
+  p{
+    font-size: 16px;
+  }
+}
+// .procces-steps {
+//   padding: 0 50px;
+//   padding-bottom: 40px;
+// }
+.slogan {
+  h1 {
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 500;
+  }
+}

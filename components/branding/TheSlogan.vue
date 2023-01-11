@@ -1,0 +1,19 @@
+<template>
+  <section class="slogan-section bg-liner text-center">
+      <div class="container">
+        <h3>A successful website or app is impossible without stable and careful support of development process and source code. </h3>
+        <a href="/contact" target="_blank" class="btn-main btn-contact ">
+          <span>Talk To An Expert</span>
+        </a>
+      </div>
+  </section>
+</template>
+
+<script>
+export default {
+  name: "TheSlogan",
+  layout: "component",
+};
+</script>
+
+<style></style>

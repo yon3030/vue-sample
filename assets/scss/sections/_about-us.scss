@@ -1,0 +1,22 @@
+.about-text {
+  color: $main-color;
+  margin-bottom: 30px;
+  h3 {
+    font-size: 32px;
+    margin-bottom: 30px;
+  }
+  h5 {
+    font-size: 21px;
+  }
+  h6 {
+    font-size: 18px;
+  }
+  ul {
+    padding-left: 22px;
+  }
+  li {
+    font-size: 18px;
+    color: $main-light;
+    margin-bottom: 10px;
+  }
+}
